@@ -1,4 +1,4 @@
-name: TOOLBOXLAP
+name: AVICA
 
 on:
   workflow_dispatch:
